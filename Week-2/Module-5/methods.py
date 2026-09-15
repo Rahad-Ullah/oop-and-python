@@ -19,5 +19,5 @@ print(my_phone.price)
 print(my_phone.features)
 
 my_phone.call()
-my_phone.send_message('01234567890', 'Hello')
+my_phone.send_message('01234567890', 'Hello world!')
 
